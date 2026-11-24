@@ -25,7 +25,7 @@ def compare_answers(self, student_answer, correct_answer):
     ).item()
 
     return round(similarity * 100, 2)
-if name == "main":
+if --name-- == "--main--":
 
 ai = EduInsightModel()
 
